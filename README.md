@@ -14,6 +14,7 @@ Welcome to the **Zenodo Certificate Maker**! This is an open-source, brutalist, 
 <img width="1908" height="1074" alt="image" src="https://github.com/user-attachments/assets/6af64b73-887f-48ff-88dc-87e9207bd1f8" />
 
 
+
 When you're trying to prove you published a research paper or dataset on Zenodo, a link usually isn't enough for bureaucratic academic committees, administrations, and universities. They want *paper*. They want *certificates*. They want *proof*.
 
 This tool allows you to:
