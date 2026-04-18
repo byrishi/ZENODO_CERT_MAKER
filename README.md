@@ -10,8 +10,6 @@ Welcome to the **Zenodo Certificate Maker**! This is an open-source, brutalist, 
 
 ## 🚀 What It Does
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/3016fe10-837d-4dfe-b4c6-25ba483dc765" />
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/c94d2799-f8db-4e5d-8d94-53894464a49d" />
-<img width="1908" height="1074" alt="image" src="https://github.com/user-attachments/assets/6af64b73-887f-48ff-88dc-87e9207bd1f8" />
 
 
 
