@@ -9,6 +9,9 @@ Welcome to the **Zenodo Certificate Maker**! This is an open-source, brutalist, 
 **DISCLAIMER: I have absolutely zero affiliation with Zenodo or CERN.** I'm just trying to survive academia. Plz don't sue me.
 
 ## 🚀 What It Does
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/3016fe10-837d-4dfe-b4c6-25ba483dc765" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/c94d2799-f8db-4e5d-8d94-53894464a49d" />
+<img width="1908" height="1074" alt="image" src="https://github.com/user-attachments/assets/6af64b73-887f-48ff-88dc-87e9207bd1f8" />
 
 
 When you're trying to prove you published a research paper or dataset on Zenodo, a link usually isn't enough for bureaucratic academic committees, administrations, and universities. They want *paper*. They want *certificates*. They want *proof*.
